@@ -37,11 +37,6 @@ cascade:
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
 {{< card link="/2026-05/2026-05-01" title="AI资讯日报 2026/05/01" subtitle="Stripe发布288项金融基建更新，Grok 4.3性能霸榜，GPT 5.5增加逻辑切换模式 ChatGPT 2.0精绘架构图，快手KroWork口令建工具，Codex实现自主编程迭代 谷歌医疗协作" icon="calendar" >}}
-  {{< card link="/2026-04/2026-04-30" title="AI资讯日报 2026/04/30" subtitle="谷歌Gemini入驻通用汽车车载，UCP协议开启代理自动购物时代 谷歌Max智能体执行复杂策略，Cursor发布SDK，OpenAI扩建智算中心设施 诺奖团队重构全模态分子模型，机器人架构分层，腾讯实" icon="calendar" >}}
-  {{< card link="/2026-04/2026-04-29" title="AI资讯日报 2026/04/29" subtitle="小米开源 MiMo-V2.5 模型与百亿计划，GitHub推行按量计费，AWS联手OpenAI上线Bedrock云服务 Claude内置Adobe套件，Mistral发布业务编排层，编程助手Curso" icon="calendar" >}}
-  {{< card link="/2026-04/2026-04-28" title="AI资讯日报 2026/04/28" subtitle="OpenAI获联邦合规认证并与微软签多云协议，中国叫停Meta跨境收购交易 谷歌Gemma 4并发破纪录，复旦开源音频模型，草莓架构逻辑推理表现惊人 英企Ineffable种子轮融11亿美金，犹他州建" icon="calendar" >}}
-  {{< card link="/2026-04/2026-04-27" title="AI资讯日报 2026/04/27" subtitle="GPT-5.5 Pro视觉智商破门萨基准，DeepSeek API缓存降价九成助力开发者 Anthropic智能体开启自主交易，Claude派发额度，可灵剪映视频功能升级 伯克利发布深学物理理论框架，" icon="calendar" >}}
-  {{< card link="/2026-04/2026-04-26" title="AI资讯日报 2026/04/26" subtitle="奥迪Q5L搭载华为乾崑智驾系统，涂鸦发布Hey Tuya全屋智能入口 智能体演化框架实现自主设计，DAVinCI架构显著削减模型幻觉 英伟达市值突破五万亿美元，全行业深陷公众信任危机与安全争议 Met" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
